@@ -78,7 +78,7 @@ tidycensus::census_api_key("YOUR_KEY_HERE", install = TRUE)
 ## Author
 
 Alberto Miranda  
-Master's in Computational and Applied Mathematics  
+M.S. in Analytics
 Harrisburg University of Science and Technology
 
 ## License
