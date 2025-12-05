@@ -1,7 +1,5 @@
-# nyc-subway-crime-fixedeffects
-Master's Applied Project: Subway Ridership and Crime in New York City: A Fixed-Effects Analysis of Egohoods, 2020-2024
-
 # Subway Ridership and Crime in New York City
+Master's Applied Project: Subway Ridership and Crime in New York City: A Fixed-Effects Analysis of Egohoods, 2020-2024
 
 This repository contains the code for my Master's thesis analyzing the relationship between subway ridership and crime in New York City using quarter-mile egohoods and two-way fixed effects models.
 
